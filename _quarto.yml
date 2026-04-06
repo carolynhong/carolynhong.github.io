@@ -20,11 +20,11 @@ website:
       - text: About
         href: about.qmd      
       - text: Research
-        href: research.qmd                             
+        href: research.qmd                        
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/cv2026-04-06.pdf
   
   page-navigation: true
   
