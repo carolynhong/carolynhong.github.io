@@ -41,14 +41,10 @@ about:
       # - "title asc"
 ---
 
-:::{#hero-heading}
-
-I am a dual-title PhD student in Sociology & Demography and Penn State. My research focuses on the family-level effects of demographic change.
-
+::: {#hero-heading}
+Hello! I am a dual-title PhD student in Sociology & Demography at Penn State. My research focuses on the family-level effects of demographic change.
 
 ## Education
 
-- B.S. Sociology, Brigham Young University (2023)
-
+-   B.S. Sociology, Brigham Young University (2023)
 :::
-
