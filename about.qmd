@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-title-block-banner: false
+editor: visual
 ---
 
 Site Under Construction
