@@ -20,7 +20,7 @@ website:
       - text: About
         href: about.qmd      
       - text: Research
-        href: research.qmd                        
+        href: research.qmd
 
     right: 
       - text: CV
@@ -29,12 +29,8 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Carolyn Hong](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
-    right:  
-      - icon: github
-        href: https://github.com/carolynhong
-        target: _blank
+    left: "[Carolyn Hong](http://www.github.com/carolynhong) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Built on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
   
   search:
     location: navbar
